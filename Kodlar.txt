@@ -3,3 +3,5 @@ System.out.println();
 v4 gihub kodlari
 
 v5 kodlari
+
+v6 kodlari
