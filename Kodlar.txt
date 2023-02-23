@@ -2,3 +2,4 @@ V1 Kodlarim
 System.out.println();
 V2 Kodlarim
 //yeni brachkodu
+stach
